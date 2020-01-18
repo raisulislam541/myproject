@@ -5,4 +5,4 @@ from django.shortcuts import render
 
 def home(request):
     boards = Board.objects.all()
-    return render(request, 'home.html', {'boards': boards})
+    return render(request, 'Home.html', {'boards': boards})
