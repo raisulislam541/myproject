@@ -1,6 +1,6 @@
 from django.http import HttpResponse
 from .models import Board
-from django.shortcuts import render
+from django.shortcuts import render, get_object_or_404
 
 
 def home(request):
@@ -9,5 +9,5 @@ def home(request):
 
 
 def board_topics(request, pk):
-    board = Board.objects.get(pk=pk)
+    board = get_object_or_404(Board, pk=pk)
     return render(request, 'topics.html', {'board': board})
