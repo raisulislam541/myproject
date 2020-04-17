@@ -12,7 +12,9 @@ class HomeTests(TestCase):
     def setUp(self):
         self.board = Board.objects.create(name='Django', description='Django board.')
         url = reverse('home')
+        print(url)
         self.response = self.client.get(url)
+        print(self.response)
 
     def test_home_view_status_code(self):
         url = reverse('home')
@@ -97,7 +99,7 @@ class NewTopicTests(TestCase):
         url = reverse('new_topic', kwargs={'pk': 1})
         data = {
             'subject': 'Test title',
-            'message': 'helllo world!'
+            'message': 'Lorem ipsum dolor sit amet'
         }
         response = self.client.post(url, data)
         self.assertTrue(Topic.objects.exists())
