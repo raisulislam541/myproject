@@ -24,6 +24,7 @@ urlpatterns = [
     url(r'^home/', views.home, name='home'),
     url(r'^signup/$', accounts_views.signup, name='signup'),
     url(r'^logout/$', auth_views.LogoutView.as_view(), name='logout'),
+    url(r'^login/$', auth_views.LoginView.as_view(template_name='login.html'), name='login'),
     # for any names to use
     # url(r'^boards/(\d+)/$', views.board_topics, name='board_topics'),
     url(r'^boards/(?P<pk>\d+)/$', views.board_topics, name='board_topics'),
