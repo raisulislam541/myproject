@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c677e7fa-c1e0-461f-9ec4-aae32ab5ec81" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/boards/tests/test_templatetags.py" beforeDir="false" afterPath="$PROJECT_DIR$/boards/tests/test_templatetags.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boards/tests/test_views.py" beforeDir="false" afterPath="$PROJECT_DIR$/boards/tests/test_views.py" afterDir="false" />
-    </list>
+    <list default="true" id="c677e7fa-c1e0-461f-9ec4-aae32ab5ec81" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +21,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/boards/tests/test_templatetags.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="30">
               <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
@@ -387,17 +384,17 @@
       <workItem from="1589125581118" duration="1444000" />
       <workItem from="1589266412289" duration="597000" />
       <workItem from="1589301612574" duration="378000" />
-      <workItem from="1589534037771" duration="1019000" />
+      <workItem from="1589534037771" duration="1288000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106494000" />
+    <option name="totallyTimeSpent" value="106763000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34441087" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34441087" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -411,7 +408,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.23352435" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.23352435" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3295129" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -761,7 +758,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/boards/tests/test_templatetags.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="30">
           <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
