@@ -55,7 +55,14 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/accounts/tests/test_mail_password_reset.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -403,12 +410,12 @@
       <workItem from="1589782472573" duration="839000" />
       <workItem from="1590054442964" duration="658000" />
       <workItem from="1590554916620" duration="124000" />
-      <workItem from="1590595093057" duration="218000" />
+      <workItem from="1590595093057" duration="862000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110138000" />
+    <option name="totallyTimeSpent" value="110782000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
@@ -789,7 +796,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/accounts/tests/test_mail_password_reset.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
